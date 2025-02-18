@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/NewMap.umap",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/2DMap.umap",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Menu/Pause.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Blueprint/BP_Manager.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Blueprint/BP_SalaBase.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Blueprint/NewStaticMeshComponent.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/House/1f99931b3b32ad52ffda530e1682016f.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/House/1f99931b3b32ad52ffda530e1682016f_Sprite.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/House/512d397b055bb31563fd1bb22f563764.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/House/512d397b055bb31563fd1bb22f563764_Sprite.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/House/8532d905374a93c8c4ec00c24584725d.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/House/8532d905374a93c8c4ec00c24584725d_Sprite.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/House/a0fa37a20dfd10efe7a1a4800e11be3c.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/House/a0fa37a20dfd10efe7a1a4800e11be3c_Sprite.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_1/Attack.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_2/Attack.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_3/Attack.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_1/Book.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_3/Dialogue.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_1/Dialogue.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_2/Dialogue.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_1/Idle.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_2/Idle.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_3/Idle.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_3/Protection.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_2/Protection.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_1/Protection.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_1/Walk.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_2/Walk.uasset",
+				"C:/Users/opain/Desktop/unreal/MyProject/Content/Maps/Sprites/Girl_3/Walk.uasset"
+			]
+		}
+	]
+}
